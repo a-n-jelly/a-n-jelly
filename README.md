@@ -4,4 +4,11 @@ Seattle-based PM. Previously London, previously Hong Kong. Tinkerer with strong 
 
 Always learning something new — currently ML, probably something else by next month.
 
+Current projects (WIP):
+- 🎲 [How to Play](https://howtoplay.lovable.app) — AI-powered board game companion
+- 🍽️ [Done for Dinner](https://donefordinner.lovable.app) — meal planning for families who hate the "what are we eating?" conversation
+- 📊 [AO3 Fandom Analysis](https://www.kaggle.com/code/njelly/archive-of-our-own-ao3-fandom-analysis) — ML project exploring fanfiction tropes, part of an ongoing effort to get more hands-on with data
+
+
+
 Also: strong opinions about food and travel.
