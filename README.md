@@ -2,7 +2,7 @@
 
 Seattle-based PM. Previously London, previously Hong Kong. Tinkerer with strong opinions about design and an ever-growing list of side projects.
 
-Always learning something new — currently ML, probably something else by next month.
+Always learning something new — currently learning how to build with Claude, probably something else by next month.
 
 Current projects (WIP):
 - 🍃 [Little Places](https://little-places.vercel.app/) - A 'What should I do today with my child?' agent using community sourced places and events. 
